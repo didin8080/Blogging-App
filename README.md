@@ -897,7 +897,7 @@ Copy the ip adress of Slave-1 instance or Slave2 instance (workernode) and paste
 
 <div align="center">
 <img src="img/login-page.png" alt="Logo" height="500%" width="100%" >
-<p align="center"> Home page </p>
+<p align="center"> Login page </p>
 </div>
 
 
